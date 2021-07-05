@@ -1,0 +1,107 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: #EDF2FE;
+    color: #606163;
+}
+h1{
+    font-size:3.125em ;
+}
+h2{
+    font-size: 2em;
+}
+.color-orange{
+    color: #FF4421;
+}
+.flexible-container{
+    display: flex;
+    padding-bottom: 150px;
+    margin-top: 100px;
+    
+}
+.half-width{
+    width: 50%;
+    /* padding: 8%; */
+    /* margin-top: -5%; */
+    /* margin-bottom: 60px; */
+    padding-bottom: 0px;
+    padding-left: 6%;
+
+
+}
+.half-width img{
+    width: 60%;
+}
+.link-btn{
+    text-decoration: none;
+    background-color: #FF4421;
+    padding: 13px 42px;
+    border-radius: 20px;
+    color: #fff;
+    font-weight: bold;
+    font-size: 1.1em;
+
+}
+.about-area{
+    background-image: url(images/person-banner.png);
+    background-repeat: no-repeat;
+    /* background-position: right; */
+    background-size: cover;
+    background-position: center;
+    display: flex;
+
+}
+.about-me{
+    font-weight: bold;
+    color: #606163;
+    font-size: 2.5em;
+    padding: 10px 0px;
+   
+}
+.p-graph{
+    line-height: 1.6em;
+    margin-bottom: 2.5em;
+    font-size: 1.1em;
+    /* text-align: justify; */
+
+}
+.Recipies{
+    text-align: center;
+    margin-top: -70px;
+    width: 60%;
+    margin: 0 auto;
+   
+}
+
+.border-box{
+  width: 28%;
+  border: 20px solid white;
+  border-radius: 20px;
+  background: #fff;
+  box-shadow: 10px 10px 40px rgb(185, 173, 173);
+}
+.border-box img{
+    width: 100%;
+}
+.parent-box{
+    display: flex;
+    /* width: 100%; */
+    justify-content: space-between;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-bottom: 150px;
+}
+
+
+
+
+
+
+
+.footer{
+    background-color:#0B0D17;
+    text-align: center;
+    padding: 40px 0px;
+    /* margin: 20px; */
+}
