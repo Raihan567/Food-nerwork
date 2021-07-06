@@ -41,6 +41,11 @@ h2{
     font-weight: bold;
     font-size: 1.1em;
 }
+.link-btn:hover{
+    background: transparent;
+    color: #ff4321;
+    border: 1px solid #ff4321;
+}
 .about-area{
     background-image: url(images/person-banner.png);
     background-repeat: no-repeat;
