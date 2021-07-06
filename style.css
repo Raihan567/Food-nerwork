@@ -141,24 +141,6 @@ h2{
     margin-bottom: 20px;
   }
 
-.footer{
-    background-color:#0B0D17;
-    text-align: center;
-    padding: 40px 0px;
-    /* margin: 20px; */
-}
-
-
-
-
-
-
-
-
-
-
-
-  
   .wrapper{
   width: 860px; 
   margin: 0 auto;
@@ -190,10 +172,11 @@ h2{
   .wrapper ul li:hover > ul{
   display: block;
   }
-  /* .wrapper ul ul ul{
-  margin-left: 170px;
-  top: 0;
-  position: absolute;
-  } */
-
+  
+.footer{
+    background-color:#0B0D17;
+    text-align: center;
+    padding: 40px 0px;
+    /* margin: 20px; */
+}
 
